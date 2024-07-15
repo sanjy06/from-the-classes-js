@@ -330,9 +330,9 @@ for (let sam in movie) {
 }
  */
 
-
 //destructuring
 const { actor, dir, moviename, music } = movie;
 console.log(dir); // directly we assign a variable name , here we are making the keys as a variable name and getting output
 
-
+let a = 10;
+console.log(a);
